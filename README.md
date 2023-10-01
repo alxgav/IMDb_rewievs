@@ -6,4 +6,11 @@ I have a sample of around 4,000 movies, and I need to extract the first 500 IMDb
 I attach an excel file.  In the first sheet there's the list of movies and related ID.
 In the second sheet I noted all the info I need, and how the dataset should be structured.
 
+## links
+https://v3.sg.media-imdb.com/suggestion/x/Igby%20Goes%20Down%20(2002).json curl for requests
+"id": "tt0280760",
+"y": 2002
+https://www.imdb.com/title/tt0280760 - search link
+https://www.imdb.com/title/tt0280760/reviews/   - reviews
+https://www.imdb.com/title/tt0280760/reviews/_ajax
 
